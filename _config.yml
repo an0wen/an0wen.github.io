@@ -7,7 +7,7 @@ first_name: Dr. Artem Aguichine
 middle_name:
 last_name:
 contact_note: >
-  Write me at aaguichi/ἀτ/ucsc/δοτ/edu or artyomaguichine/ἀτ/gmail/δοτ/com.
+  Write me at aaguichi(ἀτ)astro(δοτ)unam(δοτ)mx or artyomaguichine(ἀτ)gmail(δοτ)com.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -196,6 +196,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - assets/json/resume.json
 keep_files:
   - CNAME
   - .nojekyll

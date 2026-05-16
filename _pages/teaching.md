@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: This page is work in progress. In the meantime, you can find all my teaching experience in my CV. # Materials for courses you taught. Replace this text with your description.
-nav: true
+nav: false
 nav_order: 6
 ---
 

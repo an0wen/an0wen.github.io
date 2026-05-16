@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <i>aka the water guy</i>
+subtitle: <i>aka the water-world guy</i>
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
@@ -10,9 +10,9 @@ profile:
   image: photo_me_3.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Center for Adaptative Optics, office 111</p>
-    <p>1156 High Street</p>
-    <p>Santa Cruz, CA 95064</p>
+    <p>Instituto de Astronomía - Ensenada</p>
+    <p>Universidad Nacional Autónoma de México (UNAM)</p>
+    <p>Ensenada, Baja California, México</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, my name is Artem Aguichine, and I am currently a Postdoctoral Researcher at the University of California, Santa Cruz (UCSC).
+Hi, my name is Artem Aguichine, and I am currently an Associate Professor at the Instituto de Astronomía - Ensenada, UNAM (IA - Ens, UNAM).
 
 I am a planetary scientist, and my research spans a broad range of topics related to planet formation, evolution, and interior structure. I focus on characterizing the properties and composition of (exo)planets through theoretical approaches and numerical modeling.
 
