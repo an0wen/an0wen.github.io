@@ -1,4 +1,3 @@
-
 - title: General Information
   type: map
   contents:
@@ -112,9 +111,8 @@
         - Prize given to the 10% PhD theses defended in 2022 with the most scientific merit and impact.
     - year: 2019
       items:
-        - Laureate of the Agrégation de Physique 
+        - Laureate of the Agrégation de Physique
         - In France, the Agrégation is the most competitive and prestigious examination for civil service in the French public education system.
-
 # - title: Other Interests
 #   type: list
 #   contents:
