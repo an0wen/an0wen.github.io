@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "This page is work in progress. In the meantime, you can find all my teaching experience in my CV.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
@@ -454,7 +447,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%61%61%67%75%69%63%68%69@%75%63%73%63.%65%64%75", "_blank");
+          window.open("mailto:%61%61%67%75%69%63%68%69@%61%73%74%72%6F.%75%6E%61%6D.%6D%78", "_blank");
         },
       },{
         id: 'social-github',
