@@ -57,7 +57,6 @@ flowchart LR
     Aguichine2025["<u>Aguichine</u>+2025<br/>SWE model: thermal evolution<br/>of steam worlds"]
     Kempton2023["Kempton+2023<br/>Atmospheres of steam worlds"]
     Acuna2021["Acuña,incl. <u>Aguichine</u>+2021<br/>Application to TRAPPIST-1"]
-    %% Acuna2024["Acuña+2024<br/>H<sub>2</sub>-He planets<br/>no longer steam worlds"]
 
     %% Connections: direct extensions (solid) and influences (dashed)
     Sotin2007 -.->|"Inspired (physics<br/>and mineralogy)"| Brugger
@@ -66,7 +65,6 @@ flowchart LR
     Aguichine2021 -->|Added thermal evolution| Aguichine2025
     Kempton2023 -->|Coupling with interior| Aguichine2025
     Aguichine2021 -->|Application with<br/>Bayesian analysis| Acuna2021
-    %% Acuna2021 -->|Application with<br/>Bayesian analysis| Acuna2024
 ```
 
 Solid arrows show direct extensions; dashed arrows show influence. Acronyms and references at the bottom of the page.

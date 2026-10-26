@@ -24,8 +24,8 @@ Sharing astronomy beyond the research community is an important part of my work.
 - **May 2022 — The Daily Beast:** [interview](https://www.thedailybeast.com/we-must-unravel-jupiters-cryptic-origin-story-to-find-et) for the online publication.
 - **April 2022 — Observatoire Astronomique du Gros Cerveau, Ollioules, France:** public lecture for the association.
 - **December 2021 — Association Andromède:** public lecture.
-- **April 2021 — CPublié:** [video interview](https://tv.imbe.fr/portfolio_page/c-publie-artem-aguichine/) for the online series.
-- **June 2020 — Tout Se Comprend:** public talk originally streamed on Twitch. [Watch the recording on YouTube](https://www.youtube.com/watch?v=0ZvPh4vjvGc&t=8s).
+- **April 2021 — CPublié:** [video interview](https://www.youtube.com/watch?v=EARN80ywfLM/) for the online series.
+- **June 2020 — Tout Se Comprend:** public talk originally streamed on Twitch. [Watch the recording on YouTube](https://www.youtube.com/watch?v=0ZvPh4vjvGc).
 
 ## Press releases and institutional news
 

@@ -1,2 +1,5 @@
 linkedin.com
 reddit.com
+
+# ADS abstract pages reject automated requests with HTTP 405.
+^https?://ui\.adsabs\.harvard\.edu/abs/
