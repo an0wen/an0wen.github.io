@@ -4,8 +4,13 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - an0wen/pearl-database
   - an0wen/mardigras
+  - an0wen/mr-bokeh
   - castro-gzlz/mr-plotter
   - cpiaulet/smint
-  - an0wen/an0wen-astr19-spring25
   - an0wen/interior-model-grids
+  - an0wen/ResultadosUNAM
+  - an0wen/an0wen-astr19-spring25
+  - an0wen/spectr-eye-scopy
+  - an0wen/spectroscopy-in-a-nutshell
