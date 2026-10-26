@@ -68,6 +68,7 @@ flowchart LR
     Aguichine2021 -->|Application with<br/>Bayesian analysis| Acuna2021
     %% Acuna2021 -->|Application with<br/>Bayesian analysis| Acuna2024
 ```
+
 Solid arrows show direct extensions; dashed arrows show influence. Acronyms and references at the bottom of the page.
 
 ## Thermal evolution of steam worlds
