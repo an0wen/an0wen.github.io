@@ -16,12 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
+        },{id: "nav-research",
+          title: "Research",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/research/";
+          },
+        },{id: "nav-outreach",
+          title: "Outreach",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/outreach/";
           },
         },{id: "nav-repositories",
           title: "Repositories",
@@ -397,7 +404,22 @@ ninja.data = [{
             },},{id: "news-created-this-beautiful-website",
           title: 'Created this beautiful website!',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "outreach-climate-change",
+          title: 'Climate change',
+          description: "Raising climate awareness through astronomy, collaboration, and public talks.",
+          section: "Outreach",handler: () => {
+              window.location.href = "/outreach/climate-change/";
+            },},{id: "outreach-past-projects-and-events",
+          title: 'Past projects and events',
+          description: "Public talks, interviews, school visits, and community astronomy events.",
+          section: "Outreach",handler: () => {
+              window.location.href = "/outreach/past-projects-and-events/";
+            },},{id: "outreach-spectr-eye-scopy",
+          title: 'Spectr-eye-scopy',
+          description: "An interactive exploration of light, pigments, and how our eyes perceive color.",
+          section: "Outreach",handler: () => {
+              window.location.href = "/outreach/spectr-eye-scopy/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
@@ -442,6 +464,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "research-interior-modelling-of-steam-worlds",
+          title: 'Interior modelling of Steam Worlds',
+          description: "Exploring the interiors and thermal evolution of water-rich exoplanets",
+          section: "Research",handler: () => {
+              window.location.href = "/research/interior-modelling/";
             },},{
         id: 'social-email',
         title: 'email',
